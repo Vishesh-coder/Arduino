@@ -1,7 +1,3 @@
-/*
-  Modified Arduino Radar Code with LED and Buzzer Alerts
-*/
-
 #include <Servo.h>
 
 // Ultrasonic sensor pins
